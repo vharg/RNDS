@@ -112,3 +112,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files
+Geospatial_data/Strategic_nodes/Strategic_nodes.gpkg
+Geospatial_data/POI/filtered_POIs.gpkg
+Geospatial_data/roads/Java_roads.dbf
+Geospatial_data/roads/Java_roads.prj
+Geospatial_data/roads/Java_roads.shp
+Geospatial_data/roads/Java_roads.shx
