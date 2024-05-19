@@ -1,5 +1,5 @@
 # Integrating road criticality into road disruption assessments
- This repository contains code to produce a criticality roads file for use in road disruption assessments for volcanic eruptions from Hayes et al. (submitted). 
+ This repository contains code to produce a criticality roads file for use in road disruption assessments for volcanic eruptions from [Hayes et al. (2022)](https://doi.org/10.1186/s13617-022-00118-x). 
  
 ## Libraries/packages
 - Geopandas 0.8.2
